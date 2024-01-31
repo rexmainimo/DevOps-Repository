@@ -1,0 +1,32 @@
+.c-card{
+    display: flex;
+    flex-direction: row;
+}
+.cards{
+    height: 100px;
+    width: 90px;
+    border-radius: 20px;
+    border: solid blueviolet;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.c-computer{
+    display: flex;
+    flex-direction: row;
+}
+
+.computer{
+    height: 100px;
+    width: 90px;
+    border-radius: 20px;
+    border: solid blueviolet;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
